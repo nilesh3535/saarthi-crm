@@ -1,0 +1,10 @@
+{
+  "description": "A secure CRM for organizing customers into three groups and sending bulk WhatsApp messages and emails, with replies received through your regular channels.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
